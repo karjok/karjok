@@ -18,4 +18,4 @@
 
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=karjok&show_icons=true&locale=en&layout=compact" alt="karjok" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karjok&show_icons=true&locale=en" alt="karjok" /></p>
+<p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=karjok&show_icons=true&locale=en" alt="karjok" /></p>
