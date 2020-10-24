@@ -6,7 +6,7 @@
 <h4 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/karjok_pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karjok_pangesty" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/karjok-pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="karjok" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10743061/karjok-pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="karjok" height="30" width="40" /></a>
 <a href="https://fb.com/om.karjok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="om.karjok" height="30" width="40" /></a>
 <a href="https://instagram.com/karjok.pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karjok.pangesty" height="30" width="40" /></a>
 <a href="https://medium.com/karjok-pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="karjok-pangesty" height="30" width="40" /></a>
