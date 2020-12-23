@@ -1,7 +1,7 @@
 <img src="https://github.com/karjok/karjok/blob/main/IMG_20201024_165011.jpg" width=100% height=auto>
 
 <h1 align="center">Karjok Pangesty</h1>
-<b>You're on the main page of my hithub, so welcome!</b>
+<b>You're on the main page of my Github repository, so welcome!</b>
 
 <h3>Connect with me:</h3>
 <p>
