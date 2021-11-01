@@ -33,7 +33,7 @@ def update(data):
 		file.close()
 	print("done.")
 	print("update repository..")
-	sp.call(f"git add *;git commit -am 'nambahin {data}';git push -u origin master",shell=True,stdout=sp.PIPE)
+	sp.call(f"git add *;git commit -am 'nambahin {data}';git push -u https://github.com/karjok/karjok.git",shell=True,stdout=sp.PIPE)
 	print("done.")
 
 data = """
