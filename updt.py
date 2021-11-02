@@ -1,23 +1,26 @@
 import subprocess as sp
+from headerz import Headerz as hd
 
 def update(data):
 	if len(data.splitlines()) > 1:
 		data = list(set([x.split(":")[1].strip() for x in data.splitlines() if x != "" and ":" in x]))
+		print(data)
+		data = [i for i in data if len(i) == 32]
+		print(data)
 	else:
 		data = [data.strip()]
 	f = list(set([i.strip() for i in open("mydev.txt","r").readlines()]))
 	n = 0
 	if len(data) < 2:
-		d = data[0]
-		if d in f:
-			print(d,"data sudah ada, skip")
-		else:
-			f.append(d)
-			n += 1
-			print(d,"data baru ditambahkan")
-
+		if data:
+			d = data[0]
+			if d in f:
+				print(d,"data sudah ada, skip")
+			else:
+				f.append(d)
+				n += 1
+				print(d,"data baru ditambahkan")
 	else:
-		print(data)
 		for d in data:
 			if d in f:
 				print(d,"data sudah ada, skip")
@@ -47,4 +50,4 @@ data = """
 pplllll anjayy
 ps: anjay
 """
-update(data)
+update(hd.header_input("mau input apa"))
